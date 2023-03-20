@@ -1,0 +1,697 @@
+Country,Code,Capital,Continent,Growth Rate,World Population Percentage,Gdp per capita,Population,Year,>22000
+Argentina,ARG,Buenos Aires,South America,1.0052,0.57,1322.590638,23842803,1970,no
+Argentina,ARG,Buenos Aires,South America,1.0052,0.57,2758.834817,28024803,1980,no
+Argentina,ARG,Buenos Aires,South America,1.0052,0.57,4333.483372,32637657,1990,no
+Argentina,ARG,Buenos Aires,South America,1.0052,0.57,7708.099115,37070774,2000,no
+Argentina,ARG,Buenos Aires,South America,1.0052,0.57,10385.96443,41100123,2010,no
+Argentina,ARG,Buenos Aires,South America,1.0052,0.57,8579.017773,45036032,2020,no
+Australia,AUS,Canberra,Oceania,1.0099,0.33,3305.126394,12595034,1970,yes
+Australia,AUS,Canberra,Oceania,1.0099,0.33,10211.83719,14706322,1980,yes
+Australia,AUS,Canberra,Oceania,1.0099,0.33,18243.47142,17048003,1990,yes
+Australia,AUS,Canberra,Oceania,1.0099,0.33,21697.70848,19017963,2000,yes
+Australia,AUS,Canberra,Oceania,1.0099,0.33,52087.97229,22019168,2010,yes
+Australia,AUS,Canberra,Oceania,1.0099,0.33,51692.84275,25670051,2020,yes
+Austria,AUT,Vienna,Europe,1.002,0.11,2058.769051,7465301,1970,yes
+Austria,AUT,Vienna,Europe,1.002,0.11,10869.54649,7547561,1980,yes
+Austria,AUT,Vienna,Europe,1.002,0.11,21680.98962,7678729,1990,yes
+Austria,AUT,Vienna,Europe,1.002,0.11,24564.45829,8010428,2000,yes
+Austria,AUT,Vienna,Europe,1.002,0.11,46858.04327,8362829,2010,yes
+Austria,AUT,Vienna,Europe,1.002,0.11,48586.80132,8907777,2020,yes
+Burundi,BDI,Bujumbura,Africa,1.027,0.16,69.76938418,3497834,1970,no
+Burundi,BDI,Bujumbura,Africa,1.027,0.16,221.2319418,4312834,1980,no
+Burundi,BDI,Bujumbura,Africa,1.027,0.16,208.1466789,5483793,1990,no
+Burundi,BDI,Bujumbura,Africa,1.027,0.16,136.4639708,6307659,2000,no
+Burundi,BDI,Bujumbura,Africa,1.027,0.16,234.2355389,9126605,2010,no
+Burundi,BDI,Bujumbura,Africa,1.027,0.16,238.9907259,12220227,2020,no
+Belgium,BEL,Brussels,Europe,1.0038,0.15,2765.890997,9629376,1970,yes
+Belgium,BEL,Brussels,Europe,1.0038,0.15,12864.00257,9828986,1980,yes
+Belgium,BEL,Brussels,Europe,1.0038,0.15,20600.37528,9959560,1990,yes
+Belgium,BEL,Brussels,Europe,1.0038,0.15,23041.53473,10264343,2000,yes
+Belgium,BEL,Brussels,Europe,1.0038,0.15,44141.87814,10877947,2010,yes
+Belgium,BEL,Brussels,Europe,1.0038,0.15,45159.34822,11561717,2020,yes
+Benin,BEN,Porto-Novo,Africa,1.0274,0.17,114.5566751,3023443,1970,no
+Benin,BEN,Porto-Novo,Africa,1.0274,0.17,378.0443051,3833939,1980,no
+Benin,BEN,Porto-Novo,Africa,1.0274,0.17,393.686768,5133419,1990,no
+Benin,BEN,Porto-Novo,Africa,1.0274,0.17,512.673902,6998023,2000,no
+Benin,BEN,Porto-Novo,Africa,1.0274,0.17,1036.534515,9445710,2010,no
+Benin,BEN,Porto-Novo,Africa,1.0274,0.17,1291.040972,12643123,2020,no
+Burkina Faso,BFA,Ouagadougou,Africa,1.0259,0.28,81.5000146,5611666,1970,no
+Burkina Faso,BFA,Ouagadougou,Africa,1.0259,0.28,282.6858501,6932967,1980,no
+Burkina Faso,BFA,Ouagadougou,Africa,1.0259,0.28,351.9792335,9131361,1990,no
+Burkina Faso,BFA,Ouagadougou,Africa,1.0259,0.28,255.7186873,11882888,2000,no
+Burkina Faso,BFA,Ouagadougou,Africa,1.0259,0.28,647.8360955,16116845,2010,no
+Burkina Faso,BFA,Ouagadougou,Africa,1.0259,0.28,857.9327297,21522626,2020,no
+Bangladesh,BGD,Dhaka,Asia,1.0108,2.15,140.0027053,67541860,1970,no
+Bangladesh,BGD,Dhaka,Asia,1.0108,2.15,227.7519265,83929765,1980,no
+Bangladesh,BGD,Dhaka,Asia,1.0108,2.15,306.2687008,107147651,1990,no
+Bangladesh,BGD,Dhaka,Asia,1.0108,2.15,418.0689421,129193327,2000,no
+Bangladesh,BGD,Dhaka,Asia,1.0108,2.15,781.1535777,148391139,2010,no
+Bangladesh,BGD,Dhaka,Asia,1.0108,2.15,1961.613749,167420951,2020,no
+"Bahamas, The",BHS,Nassau,North America,1.0051,0.01,3178.86332,179129,1970,yes
+"Bahamas, The",BHS,Nassau,North America,1.0051,0.01,6340.787031,223752,1980,yes
+"Bahamas, The",BHS,Nassau,North America,1.0051,0.01,12356.231,270679,1990,yes
+"Bahamas, The",BHS,Nassau,North America,1.0051,0.01,27098.15632,325014,2000,yes
+"Bahamas, The",BHS,Nassau,North America,1.0051,0.01,28443.88848,373272,2010,yes
+"Bahamas, The",BHS,Nassau,North America,1.0051,0.01,25194.02514,406471,2020,yes
+Belize,BLZ,Belmopan,North America,1.0131,0.01,435.6833377,120905,1970,no
+Belize,BLZ,Belmopan,North America,1.0131,0.01,1373.216845,145133,1980,no
+Belize,BLZ,Belmopan,North America,1.0131,0.01,2197.161593,182589,1990,no
+Belize,BLZ,Belmopan,North America,1.0131,0.01,3364.491731,240406,2000,no
+Belize,BLZ,Belmopan,North America,1.0131,0.01,4270.780085,322106,2010,no
+Belize,BLZ,Belmopan,North America,1.0131,0.01,4115.177008,394921,2020,no
+Bermuda,BMU,Hamilton,North America,1,0,3387.272727,52019,1970,yes
+Bermuda,BMU,Hamilton,North America,1,0,11218.21782,53565,1980,yes
+Bermuda,BMU,Hamilton,North America,1,0,26841.51974,57470,1990,yes
+Bermuda,BMU,Hamilton,North America,1,0,56284.16865,61371,2000,yes
+Bermuda,BMU,Hamilton,North America,1,0,101875.2841,63447,2010,yes
+Bermuda,BMU,Hamilton,North America,1,0,107079.4798,64031,2020,yes
+Bolivia,BOL,Sucre,South America,1.012,0.15,226.8069714,4585693,1970,no
+Bolivia,BOL,Sucre,South America,1.012,0.15,811.2852993,5736088,1980,no
+Bolivia,BOL,Sucre,South America,1.012,0.15,709.0599824,7096194,1990,no
+Bolivia,BOL,Sucre,South America,1.012,0.15,997.5817489,8592656,2000,no
+Bolivia,BOL,Sucre,South America,1.012,0.15,1955.460182,10223270,2010,no
+Bolivia,BOL,Sucre,South America,1.012,0.15,3133.099803,11936162,2020,no
+Brazil,BRA,Brasilia,South America,1.0046,2.7,445.0237808,96369875,1970,no
+Brazil,BRA,Brasilia,South America,1.0046,2.7,1966.903626,122288383,1980,no
+Brazil,BRA,Brasilia,South America,1.0046,2.7,2622.262881,150706446,1990,no
+Brazil,BRA,Brasilia,South America,1.0046,2.7,3749.910848,175873720,2000,no
+Brazil,BRA,Brasilia,South America,1.0046,2.7,11286.07154,196353492,2010,no
+Brazil,BRA,Brasilia,South America,1.0046,2.7,6796.844542,213196304,2020,no
+Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,1.0081,0.01,1382.537631,133343,1970,yes
+Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,1.0081,0.01,25422.03919,187921,1980,yes
+Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,1.0081,0.01,13607.89027,261928,1990,yes
+Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,1.0081,0.01,18012.50219,333926,2000,yes
+Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,1.0081,0.01,35270.64214,396053,2010,yes
+Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,1.0081,0.01,27442.95383,441725,2020,yes
+Botswana,BWA,Gaborone,Africa,1.0162,0.03,153.3263787,592244,1970,no
+Botswana,BWA,Gaborone,Africa,1.0162,0.03,1181.61387,938578,1980,no
+Botswana,BWA,Gaborone,Africa,1.0162,0.03,2945.83204,1341474,1990,no
+Botswana,BWA,Gaborone,Africa,1.0162,0.03,3522.310821,1726985,2000,no
+Botswana,BWA,Gaborone,Africa,1.0162,0.03,6434.812485,2091664,2010,no
+Botswana,BWA,Gaborone,Africa,1.0162,0.03,6404.899932,2546402,2020,no
+Central African Republic,CAF,Bangui,Africa,1.0224,0.07,104.4120165,2067356,1970,no
+Central African Republic,CAF,Bangui,Africa,1.0224,0.07,362.4001488,2415276,1980,no
+Central African Republic,CAF,Bangui,Africa,1.0224,0.07,513.3041877,2809221,1990,no
+Central African Republic,CAF,Bangui,Africa,1.0224,0.07,251.2072914,3759170,2000,no
+Central African Republic,CAF,Bangui,Africa,1.0224,0.07,488.4217358,4660067,2010,no
+Central African Republic,CAF,Bangui,Africa,1.0224,0.07,492.7958712,5343020,2020,no
+Canada,CAN,Ottawa,North America,1.0078,0.48,4121.932814,21434577,1970,yes
+Canada,CAN,Ottawa,North America,1.0078,0.48,11170.56397,24511510,1980,yes
+Canada,CAN,Ottawa,North America,1.0078,0.48,21448.36196,27657204,1990,yes
+Canada,CAN,Ottawa,North America,1.0078,0.48,24271.00206,30683313,2000,yes
+Canada,CAN,Ottawa,North America,1.0078,0.48,47562.08343,33963412,2010,yes
+Canada,CAN,Ottawa,North America,1.0078,0.48,43294.64816,37888705,2020,yes
+Chile,CHL,Santiago,South America,1.0057,0.25,932.8615692,9820481,1970,no
+Chile,CHL,Santiago,South America,1.0057,0.25,2542.763806,11469828,1980,no
+Chile,CHL,Santiago,South America,1.0057,0.25,2494.526796,13342868,1990,no
+Chile,CHL,Santiago,South America,1.0057,0.25,5074.902616,15351799,2000,no
+Chile,CHL,Santiago,South America,1.0057,0.25,12808.03834,17004162,2010,no
+Chile,CHL,Santiago,South America,1.0057,0.25,13231.70421,19300315,2020,no
+China,CHN,Beijing,Asia,1,17.88,113.1629916,822534450,1970,no
+China,CHN,Beijing,Asia,1,17.88,194.8047222,982372466,1980,no
+China,CHN,Beijing,Asia,1,17.88,317.884673,1153704252,1990,no
+China,CHN,Beijing,Asia,1,17.88,959.3724836,1264099069,2000,no
+China,CHN,Beijing,Asia,1,17.88,4550.453108,1348191368,2010,no
+China,CHN,Beijing,Asia,1,17.88,10434.77519,1424929781,2020,no
+Cote d'Ivoire,CIV,Yamoussoukro,Africa,1.0248,0.35,285.2730343,5477086,1970,no
+Cote d'Ivoire,CIV,Yamoussoukro,Africa,1.0248,0.35,1266.623877,8303809,1980,no
+Cote d'Ivoire,CIV,Yamoussoukro,Africa,1.0248,0.35,905.3220195,11910540,1990,no
+Cote d'Ivoire,CIV,Yamoussoukro,Africa,1.0248,0.35,1007.46739,16799670,2000,no
+Cote d'Ivoire,CIV,Yamoussoukro,Africa,1.0248,0.35,1701.475702,21120042,2010,no
+Cote d'Ivoire,CIV,Yamoussoukro,Africa,1.0248,0.35,2325.723705,26811790,2020,no
+Cameroon,CMR,Yaounde,Africa,1.0263,0.35,176.5737092,6452787,1970,no
+Cameroon,CMR,Yaounde,Africa,1.0263,0.35,774.1852434,8519891,1980,no
+Cameroon,CMR,Yaounde,Africa,1.0263,0.35,1045.364362,11430520,1990,no
+Cameroon,CMR,Yaounde,Africa,1.0263,0.35,681.102043,15091594,2000,no
+Cameroon,CMR,Yaounde,Africa,1.0263,0.35,1352.302275,19878036,2010,no
+Cameroon,CMR,Yaounde,Africa,1.0263,0.35,1537.130218,26491087,2020,no
+"Congo, Dem. Rep.",COD,Kinshasa,Africa,1.0325,1.24,243.7497809,20151733,1970,no
+"Congo, Dem. Rep.",COD,Kinshasa,Africa,1.0325,1.24,546.1124995,26708686,1980,no
+"Congo, Dem. Rep.",COD,Kinshasa,Africa,1.0325,1.24,270.1305434,35987541,1990,no
+"Congo, Dem. Rep.",COD,Kinshasa,Africa,1.0325,1.24,405.2162186,48616317,2000,no
+"Congo, Dem. Rep.",COD,Kinshasa,Africa,1.0325,1.24,334.0215777,66391257,2010,no
+"Congo, Dem. Rep.",COD,Kinshasa,Africa,1.0325,1.24,543.9503925,92853164,2020,no
+"Congo, Rep.",COG,Brazzaville,Africa,1.0231,0.07,207.2213002,1396989,1970,no
+"Congo, Rep.",COG,Brazzaville,Africa,1.0231,0.07,959.4274975,1829256,1980,no
+"Congo, Rep.",COG,Brazzaville,Africa,1.0231,0.07,1187.549772,2385435,1990,no
+"Congo, Rep.",COG,Brazzaville,Africa,1.0231,0.07,1032.137542,3134030,2000,no
+"Congo, Rep.",COG,Brazzaville,Africa,1.0231,0.07,3073.557784,4437884,2010,no
+"Congo, Rep.",COG,Brazzaville,Africa,1.0231,0.07,1846.131297,5702174,2020,no
+Colombia,COL,Bogota,South America,1.0069,0.65,335.1182036,20905254,1970,no
+Colombia,COL,Bogota,South America,1.0069,0.65,1241.639587,26176195,1980,no
+Colombia,COL,Bogota,South America,1.0069,0.65,1445.32863,32601393,1990,no
+Colombia,COL,Bogota,South America,1.0069,0.65,2520.481089,39215135,2000,no
+Colombia,COL,Bogota,South America,1.0069,0.65,6336.709474,44816108,2010,no
+Colombia,COL,Bogota,South America,1.0069,0.65,5334.556042,50930662,2020,no
+Costa Rica,CRI,San Jos??,North America,1.0052,0.06,533.0915649,1855697,1970,no
+Costa Rica,CRI,San Jos??,North America,1.0052,0.06,2021.548779,2414303,1980,no
+Costa Rica,CRI,San Jos??,North America,1.0052,0.06,1831.000151,3158253,1990,no
+Costa Rica,CRI,San Jos??,North America,1.0052,0.06,3789.053886,3979193,2000,no
+Costa Rica,CRI,San Jos??,North America,1.0052,0.06,8227.127494,4622252,2010,no
+Costa Rica,CRI,San Jos??,North America,1.0052,0.06,12140.85415,5123105,2020,no
+Cuba,CUB,Havana,North America,0.9961,0.14,653.4269532,8869636,1970,no
+Cuba,CUB,Havana,North America,0.9961,0.14,2021.724635,9809107,1980,no
+Cuba,CUB,Havana,North America,0.9961,0.14,2703.168294,10626680,1990,no
+Cuba,CUB,Havana,North America,0.9961,0.14,2747.100303,11105791,2000,no
+Cuba,CUB,Havana,North America,0.9961,0.14,5730.354264,11290417,2010,no
+Cuba,CUB,Havana,North America,0.9961,0.14,9477.852873,11300698,2020,no
+Germany,DEU,Berlin,Europe,0.9995,1.05,2761.166833,78294583,1970,yes
+Germany,DEU,Berlin,Europe,0.9995,1.05,12138.3081,77786703,1980,yes
+Germany,DEU,Berlin,Europe,0.9995,1.05,22303.96133,79370196,1990,yes
+Germany,DEU,Berlin,Europe,0.9995,1.05,23635.92922,81551677,2000,yes
+Germany,DEU,Berlin,Europe,0.9995,1.05,41531.9342,81325090,2010,yes
+Germany,DEU,Berlin,Europe,0.9995,1.05,46208.42947,83328988,2020,yes
+Denmark,DNK,Copenhagen,Europe,1.0048,0.07,3464.455156,4922963,1970,yes
+Denmark,DNK,Copenhagen,Europe,1.0048,0.07,13883.88714,5125392,1980,yes
+Denmark,DNK,Copenhagen,Europe,1.0048,0.07,26891.44645,5144623,1990,yes
+Denmark,DNK,Copenhagen,Europe,1.0048,0.07,30743.54768,5340655,2000,yes
+Denmark,DNK,Copenhagen,Europe,1.0048,0.07,58041.39844,5550849,2010,yes
+Denmark,DNK,Copenhagen,Europe,1.0048,0.07,61063.31643,5825641,2020,yes
+Dominican Republic,DOM,Santo Domingo,North America,1.01,0.14,330.1315059,4475871,1970,no
+Dominican Republic,DOM,Santo Domingo,North America,1.01,0.14,1164.952225,5755800,1980,no
+Dominican Republic,DOM,Santo Domingo,North America,1.01,0.14,991.6148411,7129004,1990,no
+Dominican Republic,DOM,Santo Domingo,North America,1.01,0.14,2869.178139,8540791,2000,no
+Dominican Republic,DOM,Santo Domingo,North America,1.01,0.14,5555.392014,9775755,2010,no
+Dominican Republic,DOM,Santo Domingo,North America,1.01,0.14,7268.19691,10999664,2020,no
+Algeria,DZA,Algiers,Africa,1.0164,0.56,336.2246929,13795915,1970,no
+Algeria,DZA,Algiers,Africa,1.0164,0.56,2203.055461,18739378,1980,no
+Algeria,DZA,Algiers,Africa,1.0164,0.56,2408.822985,25518074,1990,no
+Algeria,DZA,Algiers,Africa,1.0164,0.56,1765.027146,30774621,2000,no
+Algeria,DZA,Algiers,Africa,1.0164,0.56,4480.786318,35856344,2010,no
+Algeria,DZA,Algiers,Africa,1.0164,0.56,3306.858208,43451666,2020,no
+Ecuador,ECU,Quito,South America,1.0114,0.23,471.6307972,6172215,1970,no
+Ecuador,ECU,Quito,South America,1.0114,0.23,2238.217084,8135845,1980,no
+Ecuador,ECU,Quito,South America,1.0114,0.23,1489.529946,10449837,1990,no
+Ecuador,ECU,Quito,South America,1.0114,0.23,1445.279324,12626507,2000,no
+Ecuador,ECU,Quito,South America,1.0114,0.23,4633.591284,14989585,2010,no
+Ecuador,ECU,Quito,South America,1.0114,0.23,5600.389615,17588595,2020,no
+"Egypt, Arab Rep.",EGY,Cairo,Africa,1.0158,1.39,233.0137095,34781986,1970,no
+"Egypt, Arab Rep.",EGY,Cairo,Africa,1.0158,1.39,500.3550452,43748556,1980,no
+"Egypt, Arab Rep.",EGY,Cairo,Africa,1.0158,1.39,765.6420055,57214630,1990,no
+"Egypt, Arab Rep.",EGY,Cairo,Africa,1.0158,1.39,1450.476242,71371371,2000,no
+"Egypt, Arab Rep.",EGY,Cairo,Africa,1.0158,1.39,2645.968759,87252413,2010,no
+"Egypt, Arab Rep.",EGY,Cairo,Africa,1.0158,1.39,3569.206841,107465134,2020,no
+Spain,ESP,Madrid,Europe,1.0015,0.6,1212.289326,33792617,1970,yes
+Spain,ESP,Madrid,Europe,1.0015,0.6,6208.578019,37491666,1980,yes
+Spain,ESP,Madrid,Europe,1.0015,0.6,13804.87679,38889889,1990,yes
+Spain,ESP,Madrid,Europe,1.0015,0.6,14713.06571,40741651,2000,yes
+Spain,ESP,Madrid,Europe,1.0015,0.6,30502.71971,46572772,2010,yes
+Spain,ESP,Madrid,Europe,1.0015,0.6,27063.19392,47363807,2020,yes
+Finland,FIN,Helsinki,Europe,1.0009,0.07,2465.644819,4606621,1970,yes
+Finland,FIN,Helsinki,Europe,1.0009,0.07,11223.93756,4779418,1980,yes
+Finland,FIN,Helsinki,Europe,1.0009,0.07,28364.64508,4986545,1990,yes
+Finland,FIN,Helsinki,Europe,1.0009,0.07,24285.46682,5176209,2000,yes
+Finland,FIN,Helsinki,Europe,1.0009,0.07,46459.97325,5363271,2010,yes
+Finland,FIN,Helsinki,Europe,1.0009,0.07,48744.98813,5529468,2020,yes
+Fiji,FJI,Suva,Oceania,1.0056,0.01,422.3875438,527634,1970,no
+Fiji,FJI,Suva,Oceania,1.0056,0.01,1892.876822,644582,1980,no
+Fiji,FJI,Suva,Oceania,1.0056,0.01,1835.123058,780430,1990,no
+Fiji,FJI,Suva,Oceania,1.0056,0.01,2069.317455,832509,2000,no
+Fiji,FJI,Suva,Oceania,1.0056,0.01,3652.535933,905169,2010,no
+Fiji,FJI,Suva,Oceania,1.0056,0.01,5057.631913,920422,2020,no
+France,FRA,Paris,Europe,1.0015,0.81,2857.251682,50523586,1970,yes
+France,FRA,Paris,Europe,1.0015,0.81,12713.36517,53713830,1980,yes
+France,FRA,Paris,Europe,1.0015,0.81,21793.83554,56412897,1990,yes
+France,FRA,Paris,Europe,1.0015,0.81,22364.02939,58665453,2000,yes
+France,FRA,Paris,Europe,1.0015,0.81,40638.33525,62444567,2010,yes
+France,FRA,Paris,Europe,1.0015,0.81,39030.36037,64480053,2020,yes
+Gabon,GAB,Libreville,Africa,1.0204,0.03,549.4538177,597192,1970,no
+Gabon,GAB,Libreville,Africa,1.0204,0.03,5892.099285,749078,1980,no
+Gabon,GAB,Libreville,Africa,1.0204,0.03,6268.918008,983028,1990,no
+Gabon,GAB,Libreville,Africa,1.0204,0.03,4135.99238,1272935,2000,no
+Gabon,GAB,Libreville,Africa,1.0204,0.03,8849.322608,1711105,2010,no
+Gabon,GAB,Libreville,Africa,1.0204,0.03,6881.715192,2292573,2020,no
+United Kingdom,GBR,London,Europe,1.0034,0.85,2347.544318,55650166,1970,yes
+United Kingdom,GBR,London,Europe,1.0034,0.85,10032.06208,56326328,1980,yes
+United Kingdom,GBR,London,Europe,1.0034,0.85,19095.467,57210442,1990,yes
+United Kingdom,GBR,London,Europe,1.0034,0.85,28223.06757,58850043,2000,yes
+United Kingdom,GBR,London,Europe,1.0034,0.85,39688.61497,62760039,2010,yes
+United Kingdom,GBR,London,Europe,1.0034,0.85,41059.16881,67059474,2020,yes
+Ghana,GHA,Accra,Africa,1.0196,0.42,253.5666219,8861895,1970,no
+Ghana,GHA,Accra,Africa,1.0196,0.42,402.0607078,11865246,1980,no
+Ghana,GHA,Accra,Africa,1.0196,0.42,398.6370811,15446982,1990,no
+Ghana,GHA,Accra,Africa,1.0196,0.42,258.4710399,19665502,2000,no
+Ghana,GHA,Accra,Africa,1.0196,0.42,1299.345212,25574719,2010,no
+Ghana,GHA,Accra,Africa,1.0196,0.42,2205.529016,32180401,2020,no
+"Gambia, The",GMB,Banjul,Africa,1.025,0.03,112.610651,528731,1970,no
+"Gambia, The",GMB,Banjul,Africa,1.025,0.03,378.312989,718586,1980,no
+"Gambia, The",GMB,Banjul,Africa,1.025,0.03,331.8177403,1040616,1990,no
+"Gambia, The",GMB,Banjul,Africa,1.025,0.03,594.1493885,1437539,2000,no
+"Gambia, The",GMB,Banjul,Africa,1.025,0.03,860.6364339,1937275,2010,no
+"Gambia, The",GMB,Banjul,Africa,1.025,0.03,773.0020701,2573995,2020,no
+Guinea-Bissau,GNB,Bissau,Africa,1.0218,0.03,111.6888386,591663,1970,no
+Guinea-Bissau,GNB,Bissau,Africa,1.0218,0.03,141.5593514,831462,1980,no
+Guinea-Bissau,GNB,Bissau,Africa,1.0218,0.03,250.149442,973551,1990,no
+Guinea-Bissau,GNB,Bissau,Africa,1.0218,0.03,308.9103184,1230849,2000,no
+Guinea-Bissau,GNB,Bissau,Africa,1.0218,0.03,558.1746681,1567220,2010,no
+Guinea-Bissau,GNB,Bissau,Africa,1.0218,0.03,727.5201717,2015828,2020,no
+Equatorial Guinea,GNQ,Malabo,Africa,1.0247,0.02,218.2055377,316955,1970,no
+Equatorial Guinea,GNQ,Malabo,Africa,1.0247,0.02,202.6274483,282509,1980,no
+Equatorial Guinea,GNQ,Malabo,Africa,1.0247,0.02,267.4680729,465549,1990,no
+Equatorial Guinea,GNQ,Malabo,Africa,1.0247,0.02,1725.557584,684977,2000,no
+Equatorial Guinea,GNQ,Malabo,Africa,1.0247,0.02,17288.8426,1094524,2010,no
+Equatorial Guinea,GNQ,Malabo,Africa,1.0247,0.02,7143.238705,1596049,2020,no
+Greece,GRC,Athens,Europe,0.9942,0.13,1494.387984,8544873,1970,yes
+Greece,GRC,Athens,Europe,0.9942,0.13,5893.661893,9307148,1980,yes
+Greece,GRC,Athens,Europe,0.9942,0.13,9600.185235,10302255,1990,yes
+Greece,GRC,Athens,Europe,0.9942,0.13,12042.95371,11038109,2000,yes
+Greece,GRC,Athens,Europe,0.9942,0.13,26690.60742,11033783,2010,yes
+Greece,GRC,Athens,Europe,0.9942,0.13,17622.541,10512232,2020,yes
+Guatemala,GTM,Guatemala City,North America,1.0134,0.22,349.0249756,5453208,1970,no
+Guatemala,GTM,Guatemala City,North America,1.0134,0.22,1143.440402,6987767,1980,no
+Guatemala,GTM,Guatemala City,North America,1.0134,0.22,845.3069621,9084780,1990,no
+Guatemala,GTM,Guatemala City,North America,1.0134,0.22,1664.298958,11735894,2000,no
+Guatemala,GTM,Guatemala City,North America,1.0134,0.22,2852.547327,14543121,2010,no
+Guatemala,GTM,Guatemala City,North America,1.0134,0.22,4603.339617,17362718,2020,no
+Guyana,GUY,Georgetown,South America,1.0052,0.01,379.8958762,705261,1970,no
+Guyana,GUY,Georgetown,South America,1.0052,0.01,773.1816708,778176,1980,no
+Guyana,GUY,Georgetown,South America,1.0052,0.01,533.5383588,747116,1990,no
+Guyana,GUY,Georgetown,South America,1.0052,0.01,954.4003181,759051,2000,no
+Guyana,GUY,Georgetown,South America,1.0052,0.01,4580.698762,747932,2010,no
+Guyana,GUY,Georgetown,South America,1.0052,0.01,6955.939217,797202,2020,no
+"Hong Kong SAR, China",HKG,Hong Kong,Asia,0.9992,0.09,960.0319615,3955072,1970,yes
+"Hong Kong SAR, China",HKG,Hong Kong,Asia,0.9992,0.09,5700.412634,4978544,1980,yes
+"Hong Kong SAR, China",HKG,Hong Kong,Asia,0.9992,0.09,13485.54489,5838574,1990,yes
+"Hong Kong SAR, China",HKG,Hong Kong,Asia,0.9992,0.09,25756.66378,6731195,2000,yes
+"Hong Kong SAR, China",HKG,Hong Kong,Asia,0.9992,0.09,32549.99823,7132438,2010,yes
+"Hong Kong SAR, China",HKG,Hong Kong,Asia,0.9992,0.09,46323.86344,7500958,2020,yes
+Honduras,HND,Tegucigalpa,North America,1.015,0.13,266.1364061,2782753,1970,no
+Honduras,HND,Tegucigalpa,North America,1.015,0.13,1078.810346,3777990,1980,no
+Honduras,HND,Tegucigalpa,North America,1.015,0.13,993.4832532,5053234,1990,no
+Honduras,HND,Tegucigalpa,North America,1.015,0.13,1080.510472,6656725,2000,no
+Honduras,HND,Tegucigalpa,North America,1.015,0.13,1891.158589,8450933,2010,no
+Honduras,HND,Tegucigalpa,North America,1.015,0.13,2389.012431,10121763,2020,no
+Haiti,HTI,Port-au-Prince,North America,1.012,0.15,70.82617925,4680812,1970,no
+Haiti,HTI,Port-au-Prince,North America,1.012,0.15,245.2165669,5646676,1980,no
+Haiti,HTI,Port-au-Prince,North America,1.012,0.15,439.944188,6925331,1990,no
+Haiti,HTI,Port-au-Prince,North America,1.012,0.15,805.0256325,8360225,2000,no
+Haiti,HTI,Port-au-Prince,North America,1.012,0.15,1191.972664,9842880,2010,no
+Haiti,HTI,Port-au-Prince,North America,1.012,0.15,1272.367992,11306801,2020,no
+Indonesia,IDN,Jakarta,Asia,1.0064,3.45,79.7145354,115228394,1970,no
+Indonesia,IDN,Jakarta,Asia,1.0064,3.45,491.5795329,148177096,1980,no
+Indonesia,IDN,Jakarta,Asia,1.0064,3.45,585.0765629,182159874,1990,no
+Indonesia,IDN,Jakarta,Asia,1.0064,3.45,780.1902047,214072421,2000,no
+Indonesia,IDN,Jakarta,Asia,1.0064,3.45,3122.362673,244016173,2010,no
+Indonesia,IDN,Jakarta,Asia,1.0064,3.45,3869.588427,271857970,2020,no
+India,IND,New Delhi,Asia,1.0068,17.77,112.4344925,557501301,1970,no
+India,IND,New Delhi,Asia,1.0068,17.77,266.5778508,696828385,1980,no
+India,IND,New Delhi,Asia,1.0068,17.77,367.5566089,870452165,1990,no
+India,IND,New Delhi,Asia,1.0068,17.77,443.3141938,1059633675,2000,no
+India,IND,New Delhi,Asia,1.0068,17.77,1357.563727,1240613620,2010,no
+India,IND,New Delhi,Asia,1.0068,17.77,1927.707823,1396387127,2020,no
+Ireland,IRL,Dublin,Europe,1.0073,0.06,1486.514527,2937637,1970,yes
+Ireland,IRL,Dublin,Europe,1.0073,0.06,6372.437775,3391387,1980,yes
+Ireland,IRL,Dublin,Europe,1.0073,0.06,14031.30257,3485374,1990,yes
+Ireland,IRL,Dublin,Europe,1.0073,0.06,26269.18162,3768950,2000,yes
+Ireland,IRL,Dublin,Europe,1.0073,0.06,48607.94052,4524585,2010,yes
+Ireland,IRL,Dublin,Europe,1.0073,0.06,85267.76474,4946119,2020,yes
+"Iran, Islamic Rep.",IRN,Tehran,Asia,1.0071,1.11,384.9440425,28449705,1970,no
+"Iran, Islamic Rep.",IRN,Tehran,Asia,1.0071,1.11,2441.440618,38520664,1980,no
+"Iran, Islamic Rep.",IRN,Tehran,Asia,1.0071,1.11,2214.327688,55793629,1990,no
+"Iran, Islamic Rep.",IRN,Tehran,Asia,1.0071,1.11,1670.009674,65544383,2000,no
+"Iran, Islamic Rep.",IRN,Tehran,Asia,1.0071,1.11,6599.660938,75373855,2010,no
+"Iran, Islamic Rep.",IRN,Tehran,Asia,1.0071,1.11,2422.480657,87290193,2020,no
+Iraq,IRQ,Baghdad,Asia,1.0221,0.56,330.8853685,9811347,1970,no
+Iraq,IRQ,Baghdad,Asia,1.0221,0.56,3850.264419,13653369,1980,no
+Iraq,IRQ,Baghdad,Asia,1.0221,0.56,10356.90305,17658381,1990,no
+Iraq,IRQ,Baghdad,Asia,1.0221,0.56,2058.264401,24628858,2000,no
+Iraq,IRQ,Baghdad,Asia,1.0221,0.56,4657.280269,31264875,2010,no
+Iraq,IRQ,Baghdad,Asia,1.0221,0.56,4145.862936,42556984,2020,no
+Iceland,ISL,Reykjav??k,Europe,1.0069,0,2576.353444,204468,1970,yes
+Iceland,ISL,Reykjav??k,Europe,1.0069,0,14821.81418,228263,1980,yes
+Iceland,ISL,Reykjav??k,Europe,1.0069,0,25384.91475,255019,1990,yes
+Iceland,ISL,Reykjav??k,Europe,1.0069,0,32096.37226,281462,2000,yes
+Iceland,ISL,Reykjav??k,Europe,1.0069,0,43237.07295,318333,2010,yes
+Iceland,ISL,Reykjav??k,Europe,1.0069,0,59270.18005,366669,2020,yes
+Italy,ITA,Rome,Europe,0.9966,0.74,2106.863959,53324036,1970,yes
+Italy,ITA,Rome,Europe,0.9966,0.74,8456.918974,56329482,1980,yes
+Italy,ITA,Rome,Europe,0.9966,0.74,20825.78422,56756561,1990,yes
+Italy,ITA,Rome,Europe,0.9966,0.74,20087.59199,56966397,2000,yes
+Italy,ITA,Rome,Europe,0.9966,0.74,36000.52012,59822450,2010,yes
+Italy,ITA,Rome,Europe,0.9966,0.74,31714.22095,59500579,2020,yes
+Jamaica,JAM,Kingston,North America,0.9999,0.04,748.9594581,1859091,1970,no
+Jamaica,JAM,Kingston,North America,0.9999,0.04,1238.839069,2135546,1980,no
+Jamaica,JAM,Kingston,North America,0.9999,0.04,1897.690884,2392030,1990,no
+Jamaica,JAM,Kingston,North America,0.9999,0.04,3392.123878,2612205,2000,no
+Jamaica,JAM,Kingston,North America,0.9999,0.04,4704.04776,2733896,2010,no
+Jamaica,JAM,Kingston,North America,0.9999,0.04,4664.530242,2820436,2020,no
+Jordan,JOR,Amman,Asia,1.0123,0.14,371.5744949,1557374,1970,no
+Jordan,JOR,Amman,Asia,1.0123,0.14,1644.256458,2216903,1980,no
+Jordan,JOR,Amman,Asia,1.0123,0.14,1166.61093,3480587,1990,no
+Jordan,JOR,Amman,Asia,1.0123,0.14,1651.621798,5056174,2000,no
+Jordan,JOR,Amman,Asia,1.0123,0.14,3736.645462,6931258,2010,no
+Jordan,JOR,Amman,Asia,1.0123,0.14,4282.765825,10928721,2020,no
+Japan,JPN,Tokyo,Asia,0.9947,1.55,2056.122046,105416839,1970,yes
+Japan,JPN,Tokyo,Asia,0.9947,1.55,9463.353855,117624196,1980,yes
+Japan,JPN,Tokyo,Asia,0.9947,1.55,25371.46417,123686321,1990,yes
+Japan,JPN,Tokyo,Asia,0.9947,1.55,39169.35957,126803861,2000,yes
+Japan,JPN,Tokyo,Asia,0.9947,1.55,44968.15623,128105431,2010,yes
+Japan,JPN,Tokyo,Asia,0.9947,1.55,40193.25244,125244761,2020,yes
+Kenya,KEN,Nairobi,Africa,1.0193,0.68,141.8804934,11473087,1970,no
+Kenya,KEN,Nairobi,Africa,1.0193,0.68,442.5428212,16187124,1980,no
+Kenya,KEN,Nairobi,Africa,1.0193,0.68,361.3282651,23162269,1990,no
+Kenya,KEN,Nairobi,Africa,1.0193,0.68,397.4826588,30851606,2000,no
+Kenya,KEN,Nairobi,Africa,1.0193,0.68,1080.296184,41517895,2010,no
+Kenya,KEN,Nairobi,Africa,1.0193,0.68,1878.580703,51985780,2020,no
+Kiribati,KIR,Tarawa,Oceania,1.0183,0,279.5213239,57437,1970,no
+Kiribati,KIR,Tarawa,Oceania,1.0183,0,652.9201724,60813,1980,no
+Kiribati,KIR,Tarawa,Oceania,1.0183,0,549.9010785,75124,1990,no
+Kiribati,KIR,Tarawa,Oceania,1.0183,0,796.8032036,88826,2000,no
+Kiribati,KIR,Tarawa,Oceania,1.0183,0,1516.76323,107995,2010,no
+Kiribati,KIR,Tarawa,Oceania,1.0183,0,1653.540297,126463,2020,no
+St. Kitts and Nevis,KNA,Basseterre,North America,1.0011,0,363.2069165,44968,1970,no
+St. Kitts and Nevis,KNA,Basseterre,North America,1.0011,0,1584.668393,43097,1980,no
+St. Kitts and Nevis,KNA,Basseterre,North America,1.0011,0,5396.40485,40636,1990,no
+St. Kitts and Nevis,KNA,Basseterre,North America,1.0011,0,9565.949909,45461,2000,no
+St. Kitts and Nevis,KNA,Basseterre,North America,1.0011,0,15510.19915,47403,2010,no
+St. Kitts and Nevis,KNA,Basseterre,North America,1.0011,0,18437.74892,47642,2020,no
+"Korea, Rep.",KOR,Seoul,Asia,0.9997,0.65,279.3049689,32601143,1970,yes
+"Korea, Rep.",KOR,Seoul,Asia,0.9997,0.65,1715.42946,38170501,1980,yes
+"Korea, Rep.",KOR,Seoul,Asia,0.9997,0.65,6610.036508,44120039,1990,yes
+"Korea, Rep.",KOR,Seoul,Asia,0.9997,0.65,12256.99357,46788591,2000,yes
+"Korea, Rep.",KOR,Seoul,Asia,0.9997,0.65,23087.22564,48813042,2010,yes
+"Korea, Rep.",KOR,Seoul,Asia,0.9997,0.65,31631.46945,51844690,2020,yes
+Kuwait,KWT,Kuwait City,Asia,1.0044,0.05,3860.579007,802786,1970,yes
+Kuwait,KWT,Kuwait City,Asia,1.0044,0.05,20924.21201,1493870,1980,yes
+Kuwait,KWT,Kuwait City,Asia,1.0044,0.05,8794.606046,1674938,1990,yes
+Kuwait,KWT,Kuwait City,Asia,1.0044,0.05,18440.37852,1934901,2000,yes
+Kuwait,KWT,Kuwait City,Asia,1.0044,0.05,38577.49828,2943356,2010,yes
+Kuwait,KWT,Kuwait City,Asia,1.0044,0.05,24811.76971,4360444,2020,yes
+Sri Lanka,LKA,Colombo,Asia,1.0027,0.27,183.9275304,12388769,1970,no
+Sri Lanka,LKA,Colombo,Asia,1.0027,0.27,267.6685772,14943645,1980,no
+Sri Lanka,LKA,Colombo,Asia,1.0027,0.27,463.6187388,17204094,1990,no
+Sri Lanka,LKA,Colombo,Asia,1.0027,0.27,869.696285,18776371,2000,no
+Sri Lanka,LKA,Colombo,Asia,1.0027,0.27,2799.648738,20668557,2010,no
+Sri Lanka,LKA,Colombo,Asia,1.0027,0.27,3680.673477,21715079,2020,no
+Lesotho,LSO,Maseru,Africa,1.0107,0.03,66.80592968,1023481,1970,no
+Lesotho,LSO,Maseru,Africa,1.0107,0.03,321.9987319,1407672,1980,no
+Lesotho,LSO,Maseru,Africa,1.0107,0.03,350.0587845,1798997,1990,no
+Lesotho,LSO,Maseru,Africa,1.0107,0.03,436.4881373,1998630,2000,no
+Lesotho,LSO,Maseru,Africa,1.0107,0.03,1119.843641,2022747,2010,no
+Lesotho,LSO,Maseru,Africa,1.0107,0.03,875.353433,2254100,2020,no
+Luxembourg,LUX,Luxembourg,Europe,1.0129,0.01,4298.033897,339342,1970,yes
+Luxembourg,LUX,Luxembourg,Europe,1.0129,0.01,16531.1149,363741,1980,yes
+Luxembourg,LUX,Luxembourg,Europe,1.0129,0.01,33465.47821,381267,1990,yes
+Luxembourg,LUX,Luxembourg,Europe,1.0129,0.01,48538.7829,435628,2000,yes
+Luxembourg,LUX,Luxembourg,Europe,1.0129,0.01,110777.9079,507070,2010,yes
+Luxembourg,LUX,Luxembourg,Europe,1.0129,0.01,116014.6025,630399,2020,yes
+Morocco,MAR,Rabat,Africa,1.0103,0.47,246.0156622,15274351,1970,no
+Morocco,MAR,Rabat,Africa,1.0103,0.47,1078.83991,19678444,1980,no
+Morocco,MAR,Rabat,Africa,1.0103,0.47,1206.011886,24570814,1990,no
+Morocco,MAR,Rabat,Africa,1.0103,0.47,1334.943464,28554415,2000,no
+Morocco,MAR,Rabat,Africa,1.0103,0.47,2839.92612,32464865,2010,no
+Morocco,MAR,Rabat,Africa,1.0103,0.47,3058.691689,36688772,2020,no
+Monaco,MCO,Monaco,Europe,0.9941,0,12478.13122,24270,1970,yes
+Monaco,MCO,Monaco,Europe,0.9941,0,51515.06413,27076,1980,yes
+Monaco,MCO,Monaco,Europe,0.9941,0,84303.87843,30329,1990,yes
+Monaco,MCO,Monaco,Europe,0.9941,0,82365.49236,32465,2000,yes
+Monaco,MCO,Monaco,Europe,0.9941,0,150737.8925,33178,2010,yes
+Monaco,MCO,Monaco,Europe,0.9941,0,173688.1894,36922,2020,yes
+Madagascar,MDG,Antananarivo,Africa,1.0241,0.37,169.0705601,6639751,1970,no
+Madagascar,MDG,Antananarivo,Africa,1.0241,0.37,596.7749793,8948162,1980,no
+Madagascar,MDG,Antananarivo,Africa,1.0241,0.37,338.9477127,11882762,1990,no
+Madagascar,MDG,Antananarivo,Africa,1.0241,0.37,293.6071574,16216431,2000,no
+Madagascar,MDG,Antananarivo,Africa,1.0241,0.37,471.9592116,21731053,2010,no
+Madagascar,MDG,Antananarivo,Africa,1.0241,0.37,471.4914963,28225177,2020,no
+Mexico,MEX,Mexico City,North America,1.0063,1.6,689.7949287,50289306,1970,no
+Mexico,MEX,Mexico City,North America,1.0063,1.6,3027.375274,67705186,1980,no
+Mexico,MEX,Mexico City,North America,1.0063,1.6,3112.268595,81720428,1990,no
+Mexico,MEX,Mexico City,North America,1.0063,1.6,7157.8145,97873442,2000,no
+Mexico,MEX,Mexico City,North America,1.0063,1.6,9271.398396,112532401,2010,no
+Mexico,MEX,Mexico City,North America,1.0063,1.6,8329.271313,125998302,2020,no
+Mali,MLI,Bamako,Africa,1.0314,0.28,60.4756805,6153587,1970,no
+Mali,MLI,Bamako,Africa,1.0314,0.28,248.1885338,7372581,1980,no
+Mali,MLI,Bamako,Africa,1.0314,0.28,317.3948274,8945026,1990,no
+Mali,MLI,Bamako,Africa,1.0314,0.28,270.542236,11239101,2000,no
+Mali,MLI,Bamako,Africa,1.0314,0.28,710.2742494,15529181,2010,no
+Mali,MLI,Bamako,Africa,1.0314,0.28,862.4530188,21224040,2020,no
+Malta,MLT,Valletta,Europe,1.0124,0.01,828.4216803,315414,1970,yes
+Malta,MLT,Valletta,Europe,1.0124,0.01,3948.403126,333587,1980,yes
+Malta,MLT,Valletta,Europe,1.0124,0.01,7191.923603,365392,1990,yes
+Malta,MLT,Valletta,Europe,1.0124,0.01,10432.32812,399212,2000,yes
+Malta,MLT,Valletta,Europe,1.0124,0.01,21799.17426,418755,2010,yes
+Malta,MLT,Valletta,Europe,1.0124,0.01,27884.64283,515357,2020,yes
+Myanmar,MMR,Nay Pyi Taw,Asia,1.0071,0.68,21.23258283,27284112,1970,no
+Myanmar,MMR,Nay Pyi Taw,Asia,1.0071,0.68,29.52861952,33465781,1980,no
+Myanmar,MMR,Nay Pyi Taw,Asia,1.0071,0.68,49.26489079,40099553,1990,no
+Myanmar,MMR,Nay Pyi Taw,Asia,1.0071,0.68,146.6045788,45538332,2000,no
+Myanmar,MMR,Nay Pyi Taw,Asia,1.0071,0.68,746.94536,49390988,2010,no
+Myanmar,MMR,Nay Pyi Taw,Asia,1.0071,0.68,1467.604281,53423198,2020,no
+Mauritania,MRT,Nouakchott,Africa,1.0263,0.06,269.8044919,1122198,1970,no
+Mauritania,MRT,Nouakchott,Africa,1.0263,0.06,680.1861099,1506694,1980,no
+Mauritania,MRT,Nouakchott,Africa,1.0263,0.06,740.7361713,2006027,1990,no
+Mauritania,MRT,Nouakchott,Africa,1.0263,0.06,676.5690224,2695003,2000,no
+Mauritania,MRT,Nouakchott,Africa,1.0263,0.06,1610.921603,3419461,2010,no
+Mauritania,MRT,Nouakchott,Africa,1.0263,0.06,1701.991163,4498604,2020,no
+Malawi,MWI,Lilongwe,Africa,1.0259,0.26,61.76552389,4625141,1970,no
+Malawi,MWI,Lilongwe,Africa,1.0259,0.26,198.0111239,6267369,1980,no
+Malawi,MWI,Lilongwe,Africa,1.0259,0.26,199.9863636,9539665,1990,no
+Malawi,MWI,Lilongwe,Africa,1.0259,0.26,156.3858168,11229387,2000,no
+Malawi,MWI,Lilongwe,Africa,1.0259,0.26,478.6686885,14718422,2010,no
+Malawi,MWI,Lilongwe,Africa,1.0259,0.26,636.8205368,19377061,2020,no
+Malaysia,MYS,Kuala Lumpur,Asia,1.0109,0.43,357.6567994,10306508,1970,no
+Malaysia,MYS,Kuala Lumpur,Asia,1.0109,0.43,1774.740297,13215707,1980,no
+Malaysia,MYS,Kuala Lumpur,Asia,1.0109,0.43,2441.741991,17517054,1990,no
+Malaysia,MYS,Kuala Lumpur,Asia,1.0109,0.43,4043.662923,22945150,2000,no
+Malaysia,MYS,Kuala Lumpur,Asia,1.0109,0.43,9040.568495,28717731,2010,no
+Malaysia,MYS,Kuala Lumpur,Asia,1.0109,0.43,10412.34898,33199993,2020,no
+Niger,NER,Niamey,Africa,1.0378,0.33,144.0850939,4669708,1970,no
+Niger,NER,Niamey,Africa,1.0378,0.33,418.8552657,6173177,1980,no
+Niger,NER,Niamey,Africa,1.0378,0.33,437.589995,8370647,1990,no
+Niger,NER,Niamey,Africa,1.0378,0.33,197.8326834,11622665,2000,no
+Niger,NER,Niamey,Africa,1.0378,0.33,476.8695322,16647543,2010,no
+Niger,NER,Niamey,Africa,1.0378,0.33,567.6698923,24333639,2020,no
+Nigeria,NGA,Abuja,Africa,1.0241,2.74,224.1044847,55569264,1970,no
+Nigeria,NGA,Abuja,Africa,1.0241,2.74,874.402071,72951439,1980,no
+Nigeria,NGA,Abuja,Africa,1.0241,2.74,567.528649,95214257,1990,no
+Nigeria,NGA,Abuja,Africa,1.0241,2.74,567.9307221,122851984,2000,no
+Nigeria,NGA,Abuja,Africa,1.0241,2.74,2280.437337,160952853,2010,no
+Nigeria,NGA,Abuja,Africa,1.0241,2.74,2097.092473,208327405,2020,no
+Nicaragua,NIC,Managua,North America,1.0143,0.09,322.7002946,2444767,1970,no
+Nicaragua,NIC,Managua,North America,1.0143,0.09,670.4437172,3303309,1980,no
+Nicaragua,NIC,Managua,North America,1.0143,0.09,241.8764121,4227820,1990,no
+Nicaragua,NIC,Managua,North America,1.0143,0.09,1007.499839,5123222,2000,no
+Nicaragua,NIC,Managua,North America,1.0143,0.09,1503.864191,5855734,2010,no
+Nicaragua,NIC,Managua,North America,1.0143,0.09,1905.261152,6755895,2020,no
+Netherlands,NLD,Amsterdam,Europe,1.0036,0.22,2927.072939,13037686,1970,yes
+Netherlands,NLD,Amsterdam,Europe,1.0036,0.22,13791.86226,14130387,1980,yes
+Netherlands,NLD,Amsterdam,Europe,1.0036,0.22,21290.86038,14944548,1990,yes
+Netherlands,NLD,Amsterdam,Europe,1.0036,0.22,26149.41108,15899135,2000,yes
+Netherlands,NLD,Amsterdam,Europe,1.0036,0.22,50950.03434,16617116,2010,yes
+Netherlands,NLD,Amsterdam,Europe,1.0036,0.22,52397.11671,17434557,2020,yes
+Norway,NOR,Oslo,Europe,1.0058,0.07,3306.219476,3875546,1970,yes
+Norway,NOR,Oslo,Europe,1.0058,0.07,15772.24091,4085776,1980,yes
+Norway,NOR,Oslo,Europe,1.0058,0.07,28242.94374,4241636,1990,yes
+Norway,NOR,Oslo,Europe,1.0058,0.07,38131.46061,4491202,2000,yes
+Norway,NOR,Oslo,Europe,1.0058,0.07,87693.79007,4889741,2010,yes
+Norway,NOR,Oslo,Europe,1.0058,0.07,67329.67779,5379839,2020,yes
+Nepal,NPL,Kathmandu,Asia,1.0171,0.38,71.71859114,12501285,1970,no
+Nepal,NPL,Kathmandu,Asia,1.0171,0.38,129.5860224,15600442,1980,no
+Nepal,NPL,Kathmandu,Asia,1.0171,0.38,191.8788839,19616530,1990,no
+Nepal,NPL,Kathmandu,Asia,1.0171,0.38,229.4903926,24559500,2000,no
+Nepal,NPL,Kathmandu,Asia,1.0171,0.38,592.4012071,27161567,2010,no
+Nepal,NPL,Kathmandu,Asia,1.0171,0.38,1155.142854,29348627,2020,no
+Oman,OMN,Muscat,Asia,1.0123,0.06,354.0821008,670693,1970,no
+Oman,OMN,Muscat,Asia,1.0123,0.06,5181.826219,1017462,1980,no
+Oman,OMN,Muscat,Asia,1.0123,0.06,6448.13836,1804524,1990,no
+Oman,OMN,Muscat,Asia,1.0123,0.06,8601.271944,2344253,2000,no
+Oman,OMN,Muscat,Asia,1.0123,0.06,21369.35297,2881914,2010,no
+Oman,OMN,Muscat,Asia,1.0123,0.06,14485.38612,4543399,2020,no
+Pakistan,PAK,Islamabad,Asia,1.0191,2.96,172.4656661,59290872,1970,no
+Pakistan,PAK,Islamabad,Asia,1.0191,2.96,303.0509594,80624057,1980,no
+Pakistan,PAK,Islamabad,Asia,1.0191,2.96,371.6785676,115414069,1990,no
+Pakistan,PAK,Islamabad,Asia,1.0191,2.96,576.1955804,154369924,2000,no
+Pakistan,PAK,Islamabad,Asia,1.0191,2.96,987.409712,194454498,2010,no
+Pakistan,PAK,Islamabad,Asia,1.0191,2.96,1188.859757,227196741,2020,no
+Panama,PAN,Panama City,North America,1.0132,0.06,889.2377077,1516188,1970,no
+Panama,PAN,Panama City,North America,1.0132,0.06,2332.126385,1956987,1980,no
+Panama,PAN,Panama City,North America,1.0132,0.06,2603.847676,2449968,1990,no
+Panama,PAN,Panama City,North America,1.0132,0.06,4060.317793,3001731,2000,no
+Panama,PAN,Panama City,North America,1.0132,0.06,8082.016175,3623617,2010,no
+Panama,PAN,Panama City,North America,1.0132,0.06,12509.83529,4294396,2020,no
+Peru,PER,Lima,South America,1.0099,0.43,552.1797687,13562371,1970,no
+Peru,PER,Lima,South America,1.0099,0.43,1033.418632,17492406,1980,no
+Peru,PER,Lima,South America,1.0099,0.43,1196.586858,22109099,1990,no
+Peru,PER,Lima,South America,1.0099,0.43,1955.588006,26654439,2000,no
+Peru,PER,Lima,South America,1.0099,0.43,5082.353706,29229572,2010,no
+Peru,PER,Lima,South America,1.0099,0.43,6126.87454,33304756,2020,no
+Philippines,PHL,Manila,Asia,1.0147,1.45,211.1290884,37435586,1970,no
+Philippines,PHL,Manila,Asia,1.0147,1.45,778.0827803,48419546,1980,no
+Philippines,PHL,Manila,Asia,1.0147,1.45,816.0295457,61558898,1990,no
+Philippines,PHL,Manila,Asia,1.0147,1.45,1072.801752,77958223,2000,no
+Philippines,PHL,Manila,Asia,1.0147,1.45,2217.472153,94636700,2010,no
+Philippines,PHL,Manila,Asia,1.0147,1.45,3298.829586,112190977,2020,no
+Papua New Guinea,PNG,Port Moresby,Oceania,1.0194,0.13,231.9462843,2489059,1970,no
+Papua New Guinea,PNG,Port Moresby,Oceania,1.0194,0.13,712.9190725,3104788,1980,no
+Papua New Guinea,PNG,Port Moresby,Oceania,1.0194,0.13,697.5389685,3864972,1990,no
+Papua New Guinea,PNG,Port Moresby,Oceania,1.0194,0.13,602.1864903,5508297,2000,no
+Papua New Guinea,PNG,Port Moresby,Oceania,1.0194,0.13,1949.351185,7583269,2010,no
+Papua New Guinea,PNG,Port Moresby,Oceania,1.0194,0.13,2757.21753,9749640,2020,no
+Puerto Rico,PRI,San Juan,North America,0.9989,0.04,1852.354673,2737619,1970,yes
+Puerto Rico,PRI,San Juan,North America,0.9989,0.04,4502.838428,3214568,1980,yes
+Puerto Rico,PRI,San Juan,North America,0.9989,0.04,8652.507492,3543776,1990,yes
+Puerto Rico,PRI,San Juan,North America,0.9989,0.04,16192.12697,3827108,2000,yes
+Puerto Rico,PRI,San Juan,North America,0.9989,0.04,26435.74879,3717922,2010,yes
+Puerto Rico,PRI,San Juan,North America,0.9989,0.04,32290.92114,3271564,2020,yes
+Portugal,PRT,Lisbon,Europe,0.9981,0.13,934.0821561,8683631,1970,yes
+Portugal,PRT,Lisbon,Europe,0.9981,0.13,3368.366669,9785252,1980,yes
+Portugal,PRT,Lisbon,Europe,0.9981,0.13,7884.617988,10007346,1990,yes
+Portugal,PRT,Lisbon,Europe,0.9981,0.13,11497.75346,10300626,2000,yes
+Portugal,PRT,Lisbon,Europe,0.9981,0.13,22498.69086,10588401,2010,yes
+Portugal,PRT,Lisbon,Europe,0.9981,0.13,22176.29671,10298192,2020,yes
+Paraguay,PRY,Asunci??n,South America,1.0115,0.09,240.2705038,2408787,1970,no
+Paraguay,PRY,Asunci??n,South America,1.0115,0.09,1398.054298,3078912,1980,no
+Paraguay,PRY,Asunci??n,South America,1.0115,0.09,1376.165325,4059195,1990,no
+Paraguay,PRY,Asunci??n,South America,1.0115,0.09,1663.604939,5123819,2000,no
+Paraguay,PRY,Asunci??n,South America,1.0115,0.09,4359.428415,5768613,2010,no
+Paraguay,PRY,Asunci??n,South America,1.0115,0.09,5001.07276,6618695,2020,no
+Qatar,QAT,Doha,Asia,1.0026,0.03,2755.556485,118007,1970,yes
+Qatar,QAT,Doha,Asia,1.0026,0.03,35010.39528,277450,1980,yes
+Qatar,QAT,Doha,Asia,1.0026,0.03,15454.17967,441675,1990,yes
+Qatar,QAT,Doha,Asia,1.0026,0.03,29976.16763,645937,2000,yes
+Qatar,QAT,Doha,Asia,1.0026,0.03,67403.08768,1713504,2010,yes
+Qatar,QAT,Doha,Asia,1.0026,0.03,50124.38594,2760385,2020,yes
+Rwanda,RWA,Kigali,Africa,1.0234,0.17,58.52527645,3896367,1970,no
+Rwanda,RWA,Kigali,Africa,1.0234,0.17,243.4870745,5247532,1980,no
+Rwanda,RWA,Kigali,Africa,1.0234,0.17,349.8733096,7319962,1990,no
+Rwanda,RWA,Kigali,Africa,1.0234,0.17,260.6011858,8109989,2000,no
+Rwanda,RWA,Kigali,Africa,1.0234,0.17,609.724917,10309031,2010,no
+Rwanda,RWA,Kigali,Africa,1.0234,0.17,797.8555207,13146362,2020,no
+Saudi Arabia,SAU,Riyadh,Asia,1.0128,0.46,921.3350532,6106191,1970,no
+Saudi Arabia,SAU,Riyadh,Asia,1.0128,0.46,16977.98593,10171710,1980,no
+Saudi Arabia,SAU,Riyadh,Asia,1.0128,0.46,7246.01592,16004763,1990,no
+Saudi Arabia,SAU,Riyadh,Asia,1.0128,0.46,9171.331476,21547390,2000,no
+Saudi Arabia,SAU,Riyadh,Asia,1.0128,0.46,19262.5476,29411929,2010,no
+Saudi Arabia,SAU,Riyadh,Asia,1.0128,0.46,20110.31619,35997107,2020,no
+Sudan,SDN,Khartoum,Africa,1.0267,0.59,176.9540281,11305206,1970,no
+Sudan,SDN,Khartoum,Africa,1.0267,0.59,392.4148478,16673586,1980,no
+Sudan,SDN,Khartoum,Africa,1.0267,0.59,483.9526109,21090886,1990,no
+Sudan,SDN,Khartoum,Africa,1.0267,0.59,366.172742,26298773,2000,no
+Sudan,SDN,Khartoum,Africa,1.0267,0.59,1338.443724,33739933,2010,no
+Sudan,SDN,Khartoum,Africa,1.0267,0.59,486.4188163,44440486,2020,no
+Senegal,SEN,Dakar,Africa,1.0261,0.22,304.7340906,4367744,1970,no
+Senegal,SEN,Dakar,Africa,1.0261,0.22,807.8059295,5703869,1980,no
+Senegal,SEN,Dakar,Africa,1.0261,0.22,982.0178763,7536001,1990,no
+Senegal,SEN,Dakar,Africa,1.0261,0.22,613.7323845,9704287,2000,no
+Senegal,SEN,Dakar,Africa,1.0261,0.22,1271.583281,12530121,2010,no
+Senegal,SEN,Dakar,Africa,1.0261,0.22,1471.830962,16436119,2020,no
+Singapore,SGP,Singapore,Asia,1.0058,0.07,925.8039129,2061831,1970,yes
+Singapore,SGP,Singapore,Asia,1.0058,0.07,4928.139118,2400729,1980,yes
+Singapore,SGP,Singapore,Asia,1.0058,0.07,11861.75616,3022209,1990,yes
+Singapore,SGP,Singapore,Asia,1.0058,0.07,23852.32703,4053602,2000,yes
+Singapore,SGP,Singapore,Asia,1.0058,0.07,47236.96023,5163590,2010,yes
+Singapore,SGP,Singapore,Asia,1.0058,0.07,59797.75218,5909869,2020,yes
+Sierra Leone,SLE,Freetown,Africa,1.022,0.11,158.2614873,2778557,1970,no
+Sierra Leone,SLE,Freetown,Africa,1.022,0.11,324.8303951,3367477,1980,no
+Sierra Leone,SLE,Freetown,Africa,1.022,0.11,150.3889975,4325388,1990,no
+Sierra Leone,SLE,Freetown,Africa,1.022,0.11,138.6987225,4584067,2000,no
+Sierra Leone,SLE,Freetown,Africa,1.022,0.11,401.8348761,6436698,2010,no
+Sierra Leone,SLE,Freetown,Africa,1.022,0.11,509.376594,8233969,2020,no
+El Salvador,SLV,San Salvador,North America,1.0035,0.08,308.4398701,3619090,1970,no
+El Salvador,SLV,San Salvador,North America,1.0035,0.08,778.448009,4508992,1980,no
+El Salvador,SLV,San Salvador,North America,1.0035,0.08,914.1317947,5367179,1990,no
+El Salvador,SLV,San Salvador,North America,1.0035,0.08,2001.540049,5958482,2000,no
+El Salvador,SLV,San Salvador,North America,1.0035,0.08,2983.228806,6114034,2010,no
+El Salvador,SLV,San Salvador,North America,1.0035,0.08,3798.636521,6292731,2020,no
+Suriname,SUR,Paramaribo,South America,1.0082,0.01,747.1611139,379918,1970,no
+Suriname,SUR,Paramaribo,South America,1.0082,0.01,2211.214054,375112,1980,no
+Suriname,SUR,Paramaribo,South America,1.0082,0.01,958.6123321,412756,1990,no
+Suriname,SUR,Paramaribo,South America,1.0082,0.01,2012.281651,478998,2000,no
+Suriname,SUR,Paramaribo,South America,1.0082,0.01,8255.874872,546080,2010,no
+Suriname,SUR,Paramaribo,South America,1.0082,0.01,4916.605666,607065,2020,no
+Sweden,SWE,Stockholm,Europe,1.0079,0.13,4736.217154,8027702,1970,yes
+Sweden,SWE,Stockholm,Europe,1.0079,0.13,17097.83265,8311763,1980,yes
+Sweden,SWE,Stockholm,Europe,1.0079,0.13,30593.67244,8548406,1990,yes
+Sweden,SWE,Stockholm,Europe,1.0079,0.13,29624.91267,8871043,2000,yes
+Sweden,SWE,Stockholm,Europe,1.0079,0.13,52869.04429,9381729,2010,yes
+Sweden,SWE,Stockholm,Europe,1.0079,0.13,52274.40879,10368969,2020,yes
+Eswatini,SWZ,Mbabane,Africa,1.0079,0.02,260.0289791,442865,1970,no
+Eswatini,SWZ,Mbabane,Africa,1.0079,0.02,922.0016494,598564,1980,no
+Eswatini,SWZ,Mbabane,Africa,1.0079,0.02,1355.389001,854011,1990,no
+Eswatini,SWZ,Mbabane,Africa,1.0079,0.02,1728.710498,1030496,2000,no
+Eswatini,SWZ,Mbabane,Africa,1.0079,0.02,4168.489403,1099920,2010,no
+Eswatini,SWZ,Mbabane,Africa,1.0079,0.02,3424.282212,1180655,2020,no
+Seychelles,SYC,Victoria,Africa,1.0061,0,343.8811821,54379,1970,no
+Seychelles,SYC,Victoria,Africa,1.0061,0,2329.353358,65290,1980,no
+Seychelles,SYC,Victoria,Africa,1.0061,0,5302.843727,71057,1990,no
+Seychelles,SYC,Victoria,Africa,1.0061,0,7578.851053,80060,2000,no
+Seychelles,SYC,Victoria,Africa,1.0061,0,10804.68447,92409,2010,no
+Seychelles,SYC,Victoria,Africa,1.0061,0,10764.42042,105530,2020,no
+Chad,TCD,N'Djamena,Africa,1.0316,0.22,128.7917736,3667394,1970,no
+Chad,TCD,N'Djamena,Africa,1.0316,0.22,228.8224844,4408230,1980,no
+Chad,TCD,N'Djamena,Africa,1.0316,0.22,291.5533573,5827069,1990,no
+Chad,TCD,N'Djamena,Africa,1.0316,0.22,166.1757089,8259137,2000,no
+Chad,TCD,N'Djamena,Africa,1.0316,0.22,892.5688697,11894727,2010,no
+Chad,TCD,N'Djamena,Africa,1.0316,0.22,659.270045,16644701,2020,no
+Togo,TGO,Lom??,Africa,1.0236,0.11,120.0538809,2197383,1970,no
+Togo,TGO,Lom??,Africa,1.0236,0.11,417.6691399,2838110,1980,no
+Togo,TGO,Lom??,Africa,1.0236,0.11,431.4503884,3875947,1990,no
+Togo,TGO,Lom??,Africa,1.0236,0.11,302.958592,5008035,2000,no
+Togo,TGO,Lom??,Africa,1.0236,0.11,534.0447826,6571855,2010,no
+Togo,TGO,Lom??,Africa,1.0236,0.11,914.9507925,8442580,2020,no
+Thailand,THA,Bangkok,Asia,1.0013,0.9,192.127686,35791728,1970,no
+Thailand,THA,Bangkok,Asia,1.0013,0.9,682.9299728,45737753,1980,no
+Thailand,THA,Bangkok,Asia,1.0013,0.9,1508.94247,55228410,1990,no
+Thailand,THA,Bangkok,Asia,1.0013,0.9,2007.735271,63066603,2000,no
+Thailand,THA,Bangkok,Asia,1.0013,0.9,5076.339872,68270489,2010,no
+Thailand,THA,Bangkok,Asia,1.0013,0.9,7186.874092,71475664,2020,no
+Trinidad and Tobago,TTO,Port-of-Spain,North America,1.0035,0.02,869.354117,988890,1970,no
+Trinidad and Tobago,TTO,Port-of-Spain,North America,1.0035,0.02,5748.673495,1127852,1980,no
+Trinidad and Tobago,TTO,Port-of-Spain,North America,1.0035,0.02,4150.284861,1266518,1990,no
+Trinidad and Tobago,TTO,Port-of-Spain,North America,1.0035,0.02,6435.134212,1332203,2000,no
+Trinidad and Tobago,TTO,Port-of-Spain,North America,1.0035,0.02,16683.39306,1410296,2010,no
+Trinidad and Tobago,TTO,Port-of-Spain,North America,1.0035,0.02,15425.63511,1518147,2020,no
+Tunisia,TUN,Tunis,Africa,1.0076,0.15,284.220679,5047404,1970,no
+Tunisia,TUN,Tunis,Africa,1.0076,0.15,1371.835501,6578156,1980,no
+Tunisia,TUN,Tunis,Africa,1.0076,0.15,1491.119777,8440023,1990,no
+Tunisia,TUN,Tunis,Africa,1.0076,0.15,2211.835015,9893316,2000,no
+Tunisia,TUN,Tunis,Africa,1.0076,0.15,4344.64192,10895063,2010,no
+Tunisia,TUN,Tunis,Africa,1.0076,0.15,3521.591948,12161723,2020,no
+Turkey,TUR,Ankara,Asia,1.0067,1.07,489.9303677,35540990,1970,no
+Turkey,TUR,Ankara,Asia,1.0067,1.07,1564.247166,44089069,1980,no
+Turkey,TUR,Ankara,Asia,1.0067,1.07,2794.350494,54324142,1990,no
+Turkey,TUR,Ankara,Asia,1.0067,1.07,4337.478003,64113547,2000,no
+Turkey,TUR,Ankara,Asia,1.0067,1.07,10742.77498,73195345,2010,no
+Turkey,TUR,Ankara,Asia,1.0067,1.07,8536.43332,84135428,2020,no
+Uganda,UGA,Kampala,Africa,1.0304,0.59,133.9715946,10317212,1970,no
+Uganda,UGA,Kampala,Africa,1.0304,0.59,100.0302757,13284026,1980,no
+Uganda,UGA,Kampala,Africa,1.0304,0.59,248.0293243,17586630,1990,no
+Uganda,UGA,Kampala,Africa,1.0304,0.59,261.8691416,24020697,2000,no
+Uganda,UGA,Kampala,Africa,1.0304,0.59,822.5393725,32341728,2010,no
+Uganda,UGA,Kampala,Africa,1.0304,0.59,822.0276815,44404611,2020,no
+Uruguay,URY,Montevideo,South America,0.999,0.04,760.5870648,2790265,1970,no
+Uruguay,URY,Montevideo,South America,0.999,0.04,3485.991103,2953750,1980,no
+Uruguay,URY,Montevideo,South America,0.999,0.04,2990.367133,3117012,1990,no
+Uruguay,URY,Montevideo,South America,0.999,0.04,6875.025469,3292224,2000,no
+Uruguay,URY,Montevideo,South America,0.999,0.04,11992.02377,3352651,2010,no
+Uruguay,URY,Montevideo,South America,0.999,0.04,15438.41167,3429086,2020,no
+United States,USA,"Washington, D.C.",North America,1.0038,4.24,5234.296666,200328340,1970,yes
+United States,USA,"Washington, D.C.",North America,1.0038,4.24,12574.79151,223140018,1980,yes
+United States,USA,"Washington, D.C.",North America,1.0038,4.24,23888.60001,248083732,1990,yes
+United States,USA,"Washington, D.C.",North America,1.0038,4.24,36334.90878,282398554,2000,yes
+United States,USA,"Washington, D.C.",North America,1.0038,4.24,48466.6576,311182845,2010,yes
+United States,USA,"Washington, D.C.",North America,1.0038,4.24,63593.44362,335942003,2020,yes
+St. Vincent and the Grenadines,VCT,Kingstown,North America,0.9963,0,203.8651507,98459,1970,no
+St. Vincent and the Grenadines,VCT,Kingstown,North America,0.9963,0,818.7691628,107480,1980,no
+St. Vincent and the Grenadines,VCT,Kingstown,North America,0.9963,0,2236.197812,112487,1990,no
+St. Vincent and the Grenadines,VCT,Kingstown,North America,0.9963,0,3676.352092,113813,2000,no
+St. Vincent and the Grenadines,VCT,Kingstown,North America,0.9963,0,6292.498854,109308,2010,no
+St. Vincent and the Grenadines,VCT,Kingstown,North America,0.9963,0,7278.016297,104632,2020,no
+South Africa,ZAF,Pretoria,Africa,1.0084,0.75,834.5525029,22368306,1970,no
+South Africa,ZAF,Pretoria,Africa,1.0084,0.75,2905.807641,29463549,1980,no
+South Africa,ZAF,Pretoria,Africa,1.0084,0.75,3139.966225,39877570,1990,no
+South Africa,ZAF,Pretoria,Africa,1.0084,0.75,3374.718423,46813266,2000,no
+South Africa,ZAF,Pretoria,Africa,1.0084,0.75,8148.961202,51784921,2010,no
+South Africa,ZAF,Pretoria,Africa,1.0084,0.75,5655.867654,58801927,2020,no
+Zambia,ZMB,Lusaka,Africa,1.028,0.25,436.7692354,4281671,1970,no
+Zambia,ZMB,Lusaka,Africa,1.028,0.25,654.4120135,5720438,1980,no
+Zambia,ZMB,Lusaka,Africa,1.028,0.25,408.7693313,7686401,1990,no
+Zambia,ZMB,Lusaka,Africa,1.028,0.25,345.6896207,9891136,2000,no
+Zambia,ZMB,Lusaka,Africa,1.028,0.25,1489.459087,13792086,2010,no
+Zambia,ZMB,Lusaka,Africa,1.028,0.25,985.132436,18927715,2020,no
+Zimbabwe,ZWE,Harare,Africa,1.0204,0.2,356.2289954,5202918,1970,no
+Zimbabwe,ZWE,Harare,Africa,1.0204,0.2,901.4984147,7049926,1980,no
+Zimbabwe,ZWE,Harare,Africa,1.0204,0.2,841.9739583,10113893,1990,no
+Zimbabwe,ZWE,Harare,Africa,1.0204,0.2,563.0575041,11834676,2000,no
+Zimbabwe,ZWE,Harare,Africa,1.0204,0.2,948.331481,12839771,2010,no
+Zimbabwe,ZWE,Harare,Africa,1.0204,0.2,1214.50982,15669666,2020,no
